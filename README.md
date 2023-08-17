@@ -1,5 +1,6 @@
 # YouTube-Trending-Videos-Data-Analysis
 The dataset includes data gathered from videos on YouTube that are contained within the trending category each day.
+Link to the code: https://github.com/SushreeSangitaPanda/SushreeSangitaPanda/blob/1bc5892d2289a63010ab5b7779816bcb00a6f448/bmg_task.ipynb
 
 This repository contains a comprehensive data analysis of trending videos on YouTube using Python libraries such as pandas, seaborn, SentimentIntensityAnalyzer from NLTK, and more. The analysis aims to provide insights into the characteristics and trends of YouTube videos that have gained popularity. The dataset used for this analysis includes the following columns: video_id, title, publishedAt, channelId, channelTitle, categoryId, trending_date, tags, view_count, likes, dislikes, comment_count, thumbnail_link, comments_disabled, ratings_disabled, and description.
 
